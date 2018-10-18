@@ -1,4 +1,4 @@
-package albul.basic.android.ru.weatherapp;
+package albul.basic.android.ru.weather;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("albul.basic.android.ru.weatherapp", appContext.getPackageName());
+        assertEquals("albul.basic.android.ru.weather", appContext.getPackageName());
     }
 }

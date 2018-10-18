@@ -1,4 +1,4 @@
-package albul.basic.android.ru.weatherapp;
+package albul.basic.android.ru.weather;
 
 import org.junit.Test;
 

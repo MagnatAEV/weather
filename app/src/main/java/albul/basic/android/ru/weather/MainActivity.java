@@ -1,4 +1,4 @@
-package albul.basic.android.ru.weatherapp;
+package albul.basic.android.ru.weather;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
